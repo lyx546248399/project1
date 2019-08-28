@@ -1,55 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="431abb56-5990-4b83-b432-4bc8f3054d43" name="Default Changelist" comment="项目一">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/GraphX/graph_vip827.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/GraphX/testDemo.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/ETL/appdictETL.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/ETL/txt2Parquet.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/MediaAnalysis/mediaAnalysis.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/ProCityCount/ProCity2Mysql.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/ProCityCount/proCity.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/ProCityCount/procityMysql.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Rpt/LocationRpt.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Rpt/LocationRptSQL.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Rpt/equipmentRpt.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Rpt/networkRpt.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Rpt/operateRpt.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Rpt/operateSysRpt.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Tags/BusinessTag.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Tags/TagsAPP.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Tags/TagsAd.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Tags/TagsAdplatform.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Tags/TagsBusiness.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Tags/TagsContext.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Tags/TagsContext3.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Tags/TagsEquipment.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Tags/TagsKeyword.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Tags/TagsRegion.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/utils/APP2Jedis.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/utils/AmapUtil.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/utils/HttpUtils.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/utils/JedisConnectionPool.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/utils/RptUtils.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/utils/SchemaUtils.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/utils/Tag.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/utils/TagsUtils.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/utils/Utils2Type.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/utils/test.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/examFirst/SparkWord.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/examFirst/TestExam.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/exercise/test.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/hcl.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/scala_sdk_2_10_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/scala_sdk_2_10_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/spark_assembly_1_6_0_hadoop2_6_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/spark_assembly_1_6_0_hadoop2_6_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="431abb56-5990-4b83-b432-4bc8f3054d43" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -95,8 +47,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="108" column="16" selection-start-line="108" selection-start-column="16" selection-end-line="108" selection-end-column="16" />
+            <state relative-caret-position="84">
+              <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -219,9 +171,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="471" />
-    <option name="y" value="27" />
-    <option name="width" value="1100" />
+    <option name="x" value="373" />
+    <option name="y" value="2" />
+    <option name="width" value="1417" />
     <option name="height" value="995" />
   </component>
   <component name="ProjectView">
@@ -266,7 +218,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -391,7 +343,7 @@
       <workItem from="1566781508722" duration="30970000" />
       <workItem from="1566827783383" duration="5372000" />
       <workItem from="1566866563710" duration="28157000" />
-      <workItem from="1566953437493" duration="7993000" />
+      <workItem from="1566953437493" duration="8922000" />
     </task>
     <task id="LOCAL-00001" summary="模板代码">
       <created>1566220721138</created>
@@ -407,14 +359,22 @@
       <option name="project" value="LOCAL" />
       <updated>1566267770403</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="项目一">
+      <created>1566964740762</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1566964740763</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="215288000" />
+    <option name="totallyTimeSpent" value="216217000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="377" y="22" width="880" height="796" extended-state="0" />
+    <frame x="552" y="2" width="880" height="796" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" x="717" y="95" width="426" height="651" id="Project" order="0" sideWeight="0.49243698" visible="true" weight="0.3077859" />
       <window_info id="Structure" order="1" sideWeight="0.50756305" side_tool="true" weight="0.18819939" />
@@ -443,7 +403,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" weight="0.58272505" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.58243966" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" weight="0.1841302" />
@@ -869,8 +829,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="108" column="16" selection-start-line="108" selection-start-column="16" selection-end-line="108" selection-end-column="16" />
+        <state relative-caret-position="84">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
         </state>
       </provider>
     </entry>
