@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="431abb56-5990-4b83-b432-4bc8f3054d43" name="Default Changelist" comment="" />
+    <list default="true" id="431abb56-5990-4b83-b432-4bc8f3054d43" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,23 +34,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/com/Tags/TagsContext3.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
+            <state relative-caret-position="2084">
               <caret line="176" column="21" selection-start-line="176" selection-start-column="21" selection-end-line="176" selection-end-column="21" />
               <folding>
                 <element signature="e#19#59#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -171,8 +164,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="373" />
-    <option name="y" value="2" />
+    <option name="x" value="402" />
+    <option name="y" value="68" />
     <option name="width" value="1417" />
     <option name="height" value="995" />
   </component>
@@ -189,17 +182,6 @@
             <path>
               <item name="hcl" type="b2602c69:ProjectViewProjectNode" />
               <item name="hcl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hcl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hcl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hcl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hcl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -343,7 +325,7 @@
       <workItem from="1566781508722" duration="30970000" />
       <workItem from="1566827783383" duration="5372000" />
       <workItem from="1566866563710" duration="28157000" />
-      <workItem from="1566953437493" duration="8922000" />
+      <workItem from="1566953437493" duration="9714000" />
     </task>
     <task id="LOCAL-00001" summary="模板代码">
       <created>1566220721138</created>
@@ -366,24 +348,30 @@
       <option name="project" value="LOCAL" />
       <updated>1566964740763</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="项目一">
+      <created>1566972649413</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1566972649413</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="216217000" />
+    <option name="totallyTimeSpent" value="217009000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="552" y="2" width="880" height="796" extended-state="0" />
-    <editor active="true" />
+    <frame x="322" y="55" width="1133" height="796" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" x="717" y="95" width="426" height="651" id="Project" order="0" sideWeight="0.49243698" visible="true" weight="0.3077859" />
+      <window_info active="true" content_ui="combo" x="717" y="95" width="426" height="651" id="Project" order="0" sideWeight="0.4914611" visible="true" weight="0.23534884" />
       <window_info id="Structure" order="1" sideWeight="0.50756305" side_tool="true" weight="0.18819939" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Learn" order="6" sideWeight="0.4992658" weight="0.32655138" />
-      <window_info id="Favorites" order="7" sideWeight="0.50756305" side_tool="true" weight="0.18819939" />
+      <window_info id="Favorites" order="7" sideWeight="0.5085389" side_tool="true" weight="0.16957104" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49932975" weight="0.32956153" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49927744" weight="0.51133144" />
@@ -392,10 +380,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32533732" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32848838" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49953488" weight="0.32831326" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32934132" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007225" side_tool="true" weight="0.5310136" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5004651" side_tool="true" weight="0.25354108" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49932975" weight="0.4022663" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32892805" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -817,20 +805,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/Tags/TagsContext3.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
+        <state relative-caret-position="2084">
           <caret line="176" column="21" selection-start-line="176" selection-start-column="21" selection-end-line="176" selection-end-column="21" />
           <folding>
             <element signature="e#19#59#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
         </state>
       </provider>
     </entry>
